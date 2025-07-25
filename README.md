@@ -64,13 +64,6 @@ This will process all moduli listed in `all-moduli.csv`.
   - **Reduced time-to-factor** for hard numbers.
   - **Increased reliability** by running two complementary algorithms in parallel.
 
-## Why This Matters (Resume/Portfolio Impact)
-
-- **Parallelization:** Demonstrates ability to design and implement concurrent algorithms for computationally intensive problems.
-- **Cryptography Relevance:** Shows practical experience with algorithms at the heart of modern cryptosystems.
-- **Automation:** Built robust automation for large-scale, reproducible experiments.
-- **Scalability:** Successfully handled very large numbers, showcasing proficiency with high-precision arithmetic and performance optimization.
-
 ## Files
 
 - `pollards_rho.c` – Main C implementation (parallel factorization)
