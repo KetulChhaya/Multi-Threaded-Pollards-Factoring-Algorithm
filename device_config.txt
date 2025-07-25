@@ -1,0 +1,6 @@
+Device Configuration 
+* Device: MacBook Pro 
+* Processor: Apple M3 Pro Chip
+* Processor Cores: 11-core CPU (5 performance cores and 6 efficiency cores)
+* GPU: 14 core GPU
+* Unified Memory: 18GB
